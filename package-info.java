@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author Chenue
+ * @author Kilian
  *
  */
 package unitTest;
